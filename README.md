@@ -10,4 +10,4 @@ numpy
 pandas
 python3
 
-Usage on your own risk-
+Usage on your own risk
